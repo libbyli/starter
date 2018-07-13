@@ -1,2 +1,2 @@
 # starter
-starter repo using react, webpack, babel, eslint
+starter repo using react, express, webpack, babel, eslint
